@@ -11,4 +11,4 @@ cityname = input("What is the name of the city you grew up in?\n")
 petname = input("What is your pets name?\n")
 
 # Print the users new band name
-print("Your new band name is The " + cityname + " " + petname)
+print("Your new band name is The " + cityname + " " + petname +"'s")
